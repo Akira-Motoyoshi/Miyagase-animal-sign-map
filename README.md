@@ -1,5 +1,5 @@
 # Miyagase-animal-sign-map
-# 🦌 宮ヶ瀬ダム周辺における動物注意標識とロードキル分布の分析  
+# 宮ヶ瀬ダム周辺における動物注意標識とロードキル分布の分析  
 *A spatial study of wildlife warning signs and roadkill incidents around Lake Miyagase*
 
 ---
